@@ -1,0 +1,10 @@
+Projekt 
+- [ ] Defizite ermitteln und entsprechend bewerten 
+- [ ] Lebensmittel in Abhängigkeit stellen Summe der Nährstoffe Einzelmakro Bewertung 
+- [x] Key value Suche durch Indizes ersetzen-> Zeit Ersparnis 
+- [ ] Filterfunktion 
+- [x] Vergleich zu Ref-Werten erstellen
+- [ ] Ausgangsabdeckung
+- [ ] Einheiten abgleichen, damit NaN in Ausgabe weg kann
+- [ ] Nutereingabe, Lebensmittel, Zubereitungsart, Geschlecht, alter
+- [ ] Zubereitungsart überprüfen, ob vorhanden
