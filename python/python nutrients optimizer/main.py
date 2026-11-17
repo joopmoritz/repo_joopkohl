@@ -4,7 +4,7 @@ Pfade deklarieren
 ===================================================================================================
 '''
 #Pfad der "Datenbank"
-path= '/Users/joop/Desktop/alfa/python/w4/Projektabgabe/data'
+path= '...'
 
 '''
 Bibliotheken laden

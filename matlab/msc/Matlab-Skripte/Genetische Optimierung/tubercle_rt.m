@@ -1096,7 +1096,7 @@ leading_edge= [le_x' le_y' le_z'];                                  % Koordinate
             end
         end
         
-        writecell(blade_mod,'C:\Users\Joop\Documents\GitHub\BladeMod\Optimierungssetup\blade.txt');                  %Rausschreiben der Werte in eine .txt-Datei
+        writecell(blade_mod,'pfad.txt');                  %Rausschreiben der Werte in eine .txt-Datei
         
         %% Section 7 ~ Vergleich der Steigung des Basis-Profils mit dem modifizierten Profil
 
